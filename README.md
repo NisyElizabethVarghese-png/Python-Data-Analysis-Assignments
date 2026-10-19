@@ -1,2 +1,2 @@
-# Python-Data-Analysis-Assignments
-Python, NumPy and Pandas assignments.
+# Python-Data-Analysis-
+Python, NumPy and Pandas .
